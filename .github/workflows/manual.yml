@@ -1,8 +1,12 @@
 name: schedule -> get stars
 
 on:
-  schedule:
-    - cron: '10 * * * *'
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'message to include in the workflow run'
+        required: true
+    
 
 jobs:
   get_star:
