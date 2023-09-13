@@ -12,12 +12,16 @@ python3 get_star.py
 
 ```
 
-## BOOOM lab stars 
+## BOOOM lab stars, update on 2023-09-13 
+<div align='center'>
+<img src=./stars.png alt='BOOOM lab stars' style='width:600px;height:auto;'>
+</div>
+
 日月边缘🌟112
 
 Resonator🌟59
 
-人是不能飞的🌟51
+人是不能飞的🌟53
 
 泰山诡谭🌟47
 
@@ -31,5 +35,5 @@ AIA🌟40
 
 Morandi🌟37
 
-边境奇旅 III 重制版🌟37
+多元窗口🌟37
 
