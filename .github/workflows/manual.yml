@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       message:
-        description: 'message to include in the workflow run'
+        description: 'message to run'
         required: true
     
 
@@ -27,11 +27,3 @@ jobs:
     - name: Get stars
       run: |
         python3 get_star.py
-
-    - name: Commit and Push
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "update README.md"
-        git push origin HEAD:main
