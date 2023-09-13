@@ -1,4 +1,4 @@
-name: [schedule] Get Game Stars
+name: schedule -> get stars
 
 on:
   schedule:
