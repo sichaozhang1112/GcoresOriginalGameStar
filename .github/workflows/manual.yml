@@ -1,4 +1,4 @@
-name: Scheduled Get Gamecores BOOOM Lab Game Stars
+name: [schedule] Get Game Stars
 
 on:
   schedule:
