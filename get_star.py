@@ -29,12 +29,16 @@ def get_game_ids() -> set:
 
 def write_readme(info:str)->None:
     with open('README.md','w') as readme:
-        readme.write('# GcoresOriginalGameStar\n'+
-                '## requirements\n' +
-                'pip3 install requests\n' +
-                '## how to use\n' +
-                'python3 get_star.py\n' +
-                '# BOOOM lab stars \n' +
+        readme.write("# GcoresOriginalGameStar\n\n"+
+                "## requirements\n" +
+                     "```\n" +
+                "pip3 install requests\n\n" +
+                     "```\n\n" +
+                "## how to use\n" +
+                     "```\n" +
+                "python3 get_star.py\n\n" +
+                     "```\n\n" +
+                "## BOOOM lab stars \n" +
                 info)
 
 class GameInfo:
@@ -72,6 +76,6 @@ if __name__ == "__main__":
     max_show_num: int = 10
     info_str: str = ""
     for info in game_infos[:max_show_num]:
-        info_str +=  info.title + "🌟" + str(info.star) + "\n"
+        info_str +=  info.title + "🌟" + str(info.star) + "\n\n"
     print(info_str)
     write_readme(info_str)
