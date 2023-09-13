@@ -27,4 +27,3 @@ jobs:
     - name: Get stars
       run: |
         python3 get_star.py
-        cp README.md $GITHUB_WORKSPACE/README.md
