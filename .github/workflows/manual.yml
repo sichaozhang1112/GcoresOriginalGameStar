@@ -29,15 +29,12 @@ jobs:
     - name: Get stars
       run: |
         python3 get_star.py
-  
-    - name: Commit files
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git commit -a -m "update README.md"
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+
+    - name: Commit and Push
+    - uses: actions/checkout@v4
+    - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update README.md"
+          git push
