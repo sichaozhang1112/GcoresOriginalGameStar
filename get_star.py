@@ -2,7 +2,7 @@ import requests
 from typing import List
 
 
-def get_original_game_ids() -> set:
+def get_game_ids() -> set:
     game_ids: set = set()
     try:
         page_limit: int = 100
@@ -27,9 +27,17 @@ def get_original_game_ids() -> set:
         print("Fail to request!")
     return game_ids
 
+def write_readme(info:str)->None:
+    with open('README.md','w') as readme:
+        readme.write('# GcoresOriginalGameStar\n'+
+                '## requirements\n' +
+                'pip3 install requests\n' +
+                '## how to use\n' +
+                'python3 get_star.py\n' +
+                '# BOOOM lab stars \n' +
+                info)
 
 class GameInfo:
-
     def __init__(self, id: int) -> None:
         self.id = id
         if not self._request():
@@ -54,12 +62,16 @@ class GameInfo:
 
 
 if __name__ == "__main__":
-    game_ids: set = get_original_game_ids()
+    game_ids: set = get_game_ids()
     print("booom game total num: ", len(game_ids))
     game_infos: List[GameInfo] = [
         info for info in [GameInfo(id) for id in game_ids]
     ]
     # sort by star
     game_infos.sort(key=lambda x: x.star, reverse=True)
-    for info in game_infos:
-        print(info.title + ": " + str(info.star))
+    max_show_num: int = 10
+    info_str: str = ""
+    for info in game_infos[:max_show_num]:
+        info_str +=  info.title + "🌟" + str(info.star) + "\n"
+    print(info_str)
+    write_readme(info_str)
