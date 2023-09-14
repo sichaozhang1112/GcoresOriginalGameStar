@@ -2,7 +2,7 @@
 
 ## requirements
 ```
-pip3 install requests
+pip3 install -r requirements.txt
 
 ```
 
@@ -35,5 +35,5 @@ AIA🌟40
 
 边境奇旅 III 重制版🌟38
 
-Morandi🌟37
+多元窗口🌟37
 
