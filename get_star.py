@@ -124,7 +124,7 @@ def write_readme(info: GameInfos) -> None:
         )
         readme.write("<div align='center'>\n")
         readme.write(
-            "<img src=./stars.png alt='BOOOM lab stars' style='width:600px;height:auto;'>\n"
+            "<img src=./stars.png alt='BOOOM lab stars' style='width:1000px;height:auto;'>\n"
         )
         readme.write("</div>\n\n")
         readme.write(info.serialize())
