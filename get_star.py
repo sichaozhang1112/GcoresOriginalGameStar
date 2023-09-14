@@ -112,7 +112,7 @@ def write_readme(info: GameInfos) -> None:
             "# GcoresOriginalGameStar\n\n"
             + "## requirements\n"
             + "```\n"
-            + "pip3 install requests\n\n"
+            + "pip3 install -r requirements.txt\n\n"
             + "```\n\n"
             + "## how to use\n"
             + "```\n"
