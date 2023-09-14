@@ -14,7 +14,7 @@ python3 get_star.py
 
 ## BOOOM lab stars, update on 2023-09-14 
 <div align='center'>
-<img src=./stars.png alt='BOOOM lab stars' style='width:600px;height:auto;'>
+<img src=./stars.png alt='BOOOM lab stars' style='width:1000px;height:auto;'>
 </div>
 
 日月边缘🌟113
@@ -35,5 +35,5 @@ AIA🌟40
 
 边境奇旅 III 重制版🌟38
 
-多元窗口🌟37
+Morandi🌟37
 
