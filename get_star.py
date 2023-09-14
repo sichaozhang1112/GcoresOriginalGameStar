@@ -132,7 +132,8 @@ def write_readme(info: GameInfos) -> None:
 
 def draw(infos: List[GameInfos]) -> None:
     x = [info.date for info in infos]
-    colors = ["red", "blue", "green", "black"]
+    colors = ["red", "orange", "green", "blue", "purple"]
+    plt.figure(figsize=(20, 12))
     for i in range(len(infos[-1].infos)):
         info = infos[-1].infos[i]
         y = []
@@ -144,7 +145,7 @@ def draw(infos: List[GameInfos]) -> None:
         plt.plot(
             x,
             y,
-            color=i > len(colors) - 1 and colors[-1] or colors[i],
+            color=colors[i % len(colors)],
         )
     plt.xlabel("date")
     plt.ylabel("stars")
