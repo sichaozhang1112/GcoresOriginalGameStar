@@ -3,13 +3,11 @@
 ## requirements
 ```
 pip3 install -r requirements.txt
-
 ```
 
 ## how to use
 ```
-python3 get_star.py
-
+python3 get_star.py --update
 ```
 
 ## BOOOM lab stars, update on 2023-09-15 
