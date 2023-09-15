@@ -30,7 +30,7 @@ jobs:
       
     - name: Get stars
       run: |
-        python3 get_star.py
+        python3 get_star.py --update
 
     - name: Commit and Push
       run: |
