@@ -117,11 +117,11 @@ def write_readme(infos: List[GameInfos]) -> None:
             "# GcoresOriginalGameStar\n\n"
             + "## requirements\n"
             + "```\n"
-            + "pip3 install -r requirements.txt\n\n"
+            + "pip3 install -r requirements.txt\n"
             + "```\n\n"
             + "## how to use\n"
             + "```\n"
-            + "python3 get_star.py\n\n"
+            + "python3 get_star.py --update\n"
             + "```\n\n"
             + "## BOOOM lab stars, update on "
             + info.date
