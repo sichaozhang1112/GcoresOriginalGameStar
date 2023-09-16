@@ -10,14 +10,14 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM lab stars, update on 2023-09-15 
+## BOOOM lab stars, update on 2023-09-16 
 <div align='center'>
 <img src=./stars.png alt='BOOOM lab stars' style='width:1000px;height:auto;'>
 </div>
 
-日月边缘🌟113
+日月边缘🌟115
 
-人是不能飞的🌟60
+人是不能飞的🌟61
 
 Resonator🌟59
 
