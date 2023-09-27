@@ -170,7 +170,7 @@ def update(today_infos: GameInfos, type: str) -> None:
         infos[-1] = today_infos
     else:
         infos.append(today_infos)
-    max_date_num: int = 7
+    max_date_num: int = 30
     if len(infos) > max_date_num:
         infos = infos[-max_date_num:]
     draw(infos, type)
