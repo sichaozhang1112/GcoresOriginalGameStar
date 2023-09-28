@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-09-27 
+## BOOOM all stars, update on 2023-09-28 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -31,30 +31,30 @@ CATO🌟363
 
 目标深度：RE🌟270
 
-S4U：都市朋克与恋爱重拳物语🌟263
+S4U：都市朋克与恋爱重拳物语🌟265
 
 腐根之里—Reforest🌟220
 
-## BOOOM lab stars, update on 2023-09-27 
+## BOOOM lab stars, update on 2023-09-28 
 <div align='center'>
 <img src=./pics/lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-日月边缘🌟138
+日月边缘🌟140
 
-人是不能飞的🌟66
+泰山诡谭🌟69
 
-泰山诡谭🌟63
+人是不能飞的🌟67
 
 Resonator🌟60
 
-AIA🌟58
+AIA🌟59
+
+MAN IN BLANK🌟49
 
 猫德里安🌟48
 
-MAN IN BLANK🌟47
-
-我请求您的神谕🌟45
+我请求您的神谕🌟46
 
 故障修复公司🌟43
 
