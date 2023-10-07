@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-06 
+## BOOOM all stars, update on 2023-10-07 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -35,7 +35,7 @@ S4U：都市朋克2011与爱的重拳🌟282
 
 腐根之里—Reforest🌟223
 
-## BOOOM lab stars, update on 2023-10-06 
+## BOOOM lab stars, update on 2023-10-07 
 <div align='center'>
 <img src=./pics/lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -46,17 +46,17 @@ S4U：都市朋克2011与爱的重拳🌟282
 
 人是不能飞的🌟68
 
+AIA🌟61
+
 Resonator🌟61
 
-AIA🌟60
-
-我请求您的神谕🌟50
+我请求您的神谕🌟51
 
 猫德里安🌟50
 
 MAN IN BLANK🌟49
 
-故障修复公司🌟44
+故障修复公司🌟45
 
-边境奇旅 III 重制版🌟42
+多元窗口🌟43
 
