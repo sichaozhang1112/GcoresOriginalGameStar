@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-08 
+## BOOOM all stars, update on 2023-10-09 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -21,7 +21,7 @@ REconnect 再连接🌟778
 
 Recover 奇愈地下城🌟699
 
-NOOK FALL🌟474
+NOOK FALL🌟476
 
 致命纽带🌟420
 
@@ -29,18 +29,18 @@ NOOK FALL🌟474
 
 CATO🌟374
 
-S4U：都市朋克2011与爱的重拳🌟284
+S4U：都市朋克2011与爱的重拳🌟285
 
-目标深度：RE🌟271
+目标深度：RE🌟270
 
 腐根之里—Reforest🌟222
 
-## BOOOM lab stars, update on 2023-10-08 
+## BOOOM lab stars, update on 2023-10-09 
 <div align='center'>
 <img src=./pics/lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-日月边缘🌟146
+日月边缘🌟148
 
 泰山诡谭🌟71
 
@@ -54,9 +54,9 @@ AIA🌟61
 
 我请求您的神谕🌟51
 
+故障修复公司🌟49
+
 MAN IN BLANK🌟49
 
-故障修复公司🌟48
-
-多元窗口🌟44
+多元窗口🌟46
 
