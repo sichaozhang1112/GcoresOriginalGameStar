@@ -10,14 +10,14 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-09 
+## BOOOM all stars, update on 2023-10-10 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
 喜丧🌟848
 
-REconnect 再连接🌟778
+REconnect 再连接🌟779
 
 Recover 奇愈地下城🌟699
 
@@ -33,30 +33,30 @@ S4U：都市朋克2011与爱的重拳🌟285
 
 目标深度：RE🌟270
 
-腐根之里—Reforest🌟222
+腐根之里—Reforest🌟223
 
-## BOOOM lab stars, update on 2023-10-09 
+## BOOOM lab stars, update on 2023-10-10 
 <div align='center'>
 <img src=./pics/lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-日月边缘🌟148
+日月边缘🌟149
 
 泰山诡谭🌟71
 
 人是不能飞的🌟69
 
-Resonator🌟62
+Resonator🌟63
 
-AIA🌟61
+AIA🌟63
 
-猫德里安🌟51
+猫德里安🌟52
 
 我请求您的神谕🌟51
 
+MAN IN BLANK🌟50
+
 故障修复公司🌟49
 
-MAN IN BLANK🌟49
-
-多元窗口🌟46
+多元窗口🌟47
 
