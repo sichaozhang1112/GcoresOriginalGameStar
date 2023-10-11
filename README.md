@@ -50,38 +50,38 @@ AIA🌟65
 
 Resonator🌟65
 
-猫德里安🌟53
+猫德里安🌟54
 
 我请求您的神谕🌟51
 
 MAN IN BLANK🌟50
 
-故障修复公司🌟49
-
 多元窗口🌟49
+
+故障修复公司🌟49
 
 ## BOOOM angle_demon_dice stars, update on 2023-10-11 
 <div align='center'>
 <img src=./pics/angle_demon_dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-葬冬之旅🌟61
+葬冬之旅🌟63
+
+宇宙尽头的酒馆🌟60
 
 西西弗之骰🌟60
 
-宇宙尽头的酒馆🌟54
+虫虫的游戏🌟43
 
-虫虫的游戏🌟41
+约会普拉斯 DatePlus🌟34
 
-约会普拉斯 DatePlus🌟32
+Neuro Tarot Dice-Bliss🌟32
 
-Neuro Tarot Dice-Bliss🌟30
+牛魔大对决🌟32
 
 来次占卜吧！🌟27
 
-牛魔大对决🌟23
+救死扶伤猫猫车🌟22
 
-魔女破天轮🌟18
-
-Volmage Veil🌟18
+厄运递归🌟22
 
