@@ -46,9 +46,9 @@ S4U：都市朋克2011与爱的重拳🌟286
 
 人是不能飞的🌟70
 
-Resonator🌟65
-
 AIA🌟65
+
+Resonator🌟65
 
 猫德里安🌟53
 
@@ -56,9 +56,9 @@ AIA🌟65
 
 MAN IN BLANK🌟50
 
-多元窗口🌟49
-
 故障修复公司🌟49
+
+多元窗口🌟49
 
 ## BOOOM angle_demon_dice stars, update on 2023-10-11 
 <div align='center'>
@@ -67,7 +67,7 @@ MAN IN BLANK🌟50
 
 葬冬之旅🌟61
 
-西西弗之骰🌟59
+西西弗之骰🌟60
 
 宇宙尽头的酒馆🌟54
 
@@ -75,11 +75,11 @@ MAN IN BLANK🌟50
 
 约会普拉斯 DatePlus🌟32
 
-Neuro Tarot Dice-Bliss🌟29
+Neuro Tarot Dice-Bliss🌟30
 
 来次占卜吧！🌟27
 
-牛魔大对决🌟22
+牛魔大对决🌟23
 
 魔女破天轮🌟18
 
