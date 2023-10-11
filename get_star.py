@@ -19,6 +19,12 @@ class GameInfo:
         self.type: str = "all"
         if self.request["data"]["attributes"]["is-booom"]:
             self.type = "lab"
+        modified_date = datetime.datetime.strptime(
+            self.request["data"]["attributes"]["modified-at"][:10], "%Y-%m-%d")
+        if modified_date >= datetime.datetime(
+                2023, 9, 20) and modified_date <= datetime.datetime(
+                    2023, 10, 11):
+            self.type = "angle_demon_dice"
 
     def _request(self) -> bool:
         try:
@@ -31,7 +37,7 @@ class GameInfo:
 
         except Exception as e:
             print(e)
-            print("Fail to request!")
+            print("fail to request game ", self.id, "!")
             return False
 
 
@@ -112,7 +118,7 @@ def get_game_ids() -> set:
                 game_ids.add(game["id"])
     except Exception as e:
         print(e)
-        print("Fail to request!")
+        print("fail to request game ids!")
     return game_ids
 
 
@@ -141,7 +147,7 @@ def write_readme(booom_list: List) -> None:
 def draw(infos: List[GameInfos], type: str) -> None:
     x = [info.date for info in infos]
     colors = ["red", "orange", "green", "blue", "purple"]
-    plt.figure(figsize=(20, 12))
+    plt.figure(figsize=(20, 15))
     plt.xkcd()
     for i in range(len(infos[-1].infos)):
         info = infos[-1].infos[i]
@@ -160,6 +166,7 @@ def draw(infos: List[GameInfos], type: str) -> None:
     plt.xlabel("date", fontsize=12, fontweight="bold")
     plt.ylabel("stars", fontsize=12, fontweight="bold")
     plt.title("BOOOM " + type + " game stars", fontsize=16, fontweight="bold")
+    plt.xticks(rotation=90)
     plt.grid()
     plt.savefig("./pics/" + type + "_stars.png")
 
@@ -171,6 +178,8 @@ def update(today_infos: GameInfos, type: str) -> None:
     else:
         infos.append(today_infos)
     max_date_num: int = 30
+    if type == "all":
+        max_date_num = 7
     if len(infos) > max_date_num:
         infos = infos[-max_date_num:]
     draw(infos, type)
@@ -180,13 +189,11 @@ def update(today_infos: GameInfos, type: str) -> None:
 def select_type_infos(today_infos: GameInfos, type: str) -> GameInfos:
     if type == "all":
         return today_infos
-    elif type == "lab":
-        game_infos: List[GameInfo] = []
-        for info in today_infos.infos:
-            if info.type == "lab":
-                game_infos.append(info)
-        return GameInfos(today_infos.date, game_infos)
-    return today_infos
+    game_infos: List[GameInfo] = []
+    for info in today_infos.infos:
+        if info.type == type:
+            game_infos.append(info)
+    return GameInfos(today_infos.date, game_infos)
 
 
 if __name__ == "__main__":
@@ -209,7 +216,7 @@ if __name__ == "__main__":
     os.makedirs("./infos/", exist_ok=True)
     os.makedirs("./pics/", exist_ok=True)
 
-    booom_list: List = ["all", "lab"]
+    booom_list: List = ["all", "lab", "angle_demon_dice"]
     if parser.parse_args().update:
         today_infos: GameInfos = get_today_infos()
         for type in booom_list:
