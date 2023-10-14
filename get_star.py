@@ -18,13 +18,14 @@ class GameInfo:
         self.title: str = self.request["data"]["attributes"]["title"]
         self.type: str = "all"
         if self.request["data"]["attributes"]["is-booom"]:
-            self.type = "lab"
+            self.type = "23lab"
         modified_date = datetime.datetime.strptime(
             self.request["data"]["attributes"]["modified-at"][:10], "%Y-%m-%d")
         if modified_date >= datetime.datetime(
                 2023, 9, 20) and modified_date <= datetime.datetime(
                     2023, 10, 11):
-            self.type = "angle_demon_dice"
+            self.type = "23dice"
+        # print("find ", self.id, " ", self.title, " ", self.type)
 
     def _request(self) -> bool:
         try:
@@ -199,11 +200,13 @@ def select_type_infos(today_infos: GameInfos, type: str) -> GameInfos:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--update",
-                        action="store_true",
+                        type=str,
+                        default="all",
                         help="update today infos")
     parser.add_argument("--clear",
                         action="store_true",
                         help="clear cached infos")
+    parser.add_argument("--debug", type=str, default="", help="debug mode")
 
     if parser.parse_args().clear:
         if os.path.exists("README.md"):
@@ -216,11 +219,23 @@ if __name__ == "__main__":
     os.makedirs("./infos/", exist_ok=True)
     os.makedirs("./pics/", exist_ok=True)
 
-    booom_list: List = ["all", "lab", "angle_demon_dice"]
-    if parser.parse_args().update:
+    booom_list: List = ["all", "23lab", "23dice"]
+
+    if parser.parse_args().debug != "":
+        game_ids: set = get_game_ids()
+        for id in game_ids:
+            if parser.parse_args().debug == str(id):
+                print("find ", id)
+    elif parser.parse_args().update == "all":
         today_infos: GameInfos = get_today_infos()
         for type in booom_list:
             type_infos: GameInfos = select_type_infos(today_infos, type)
             type_infos.print()
             update(type_infos, type)
+    elif parser.parse_args().update in booom_list:
+        today_infos: GameInfos = get_today_infos()
+        type = parser.parse_args().update
+        type_infos: GameInfos = select_type_infos(today_infos, type)
+        type_infos.print()
+        update(type_infos, type)
     write_readme(booom_list)

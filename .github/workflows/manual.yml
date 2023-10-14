@@ -8,7 +8,7 @@ on:
       message:
         description: 'message to run'
         required: true
-    
+
 
 jobs:
   get_star:
@@ -27,10 +27,10 @@ jobs:
 
     - name: Install dependencies
       run: pip3 install -r requirements.txt
-      
+
     - name: Get stars
       run: |
-        python3 get_star.py --update
+        python3 get_star.py --update all
 
     - name: Commit and Push
       run: |
