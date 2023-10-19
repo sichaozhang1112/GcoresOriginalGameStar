@@ -17,7 +17,7 @@ python3 get_star.py --update
 
 喜丧🌟848
 
-REconnect 再连接🌟812
+REconnect 再连接🌟813
 
 Recover 奇愈地下城🌟703
 
@@ -48,13 +48,13 @@ AIA🌟69
 
 猫德里安🌟66
 
-MAN IN BLANK🌟50
-
 故障修复公司🌟50
+
+MAN IN BLANK🌟50
 
 多元窗口🌟50
 
-Morandi🌟41
+Morandi🌟40
 
 D.E.M.O【可在线试玩】🌟39
 
@@ -65,23 +65,23 @@ D.E.M.O【可在线试玩】🌟39
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-宇宙尽头的酒馆🌟177
+宇宙尽头的酒馆🌟185
 
-西西弗之骰🌟143
+西西弗之骰🌟144
 
-约会普拉斯 DatePlus🌟129
+约会普拉斯 DatePlus🌟130
 
-葬冬之旅🌟111
+葬冬之旅🌟119
 
-来次占卜吧！~上网时●●的话人生就结束了吧~🌟108
+来次占卜吧！~上网时●●的话人生就结束了吧~🌟113
 
-神之骰🌟103
+神之骰🌟104
 
-丰饶女神之骰🌟90
+丰饶女神之骰🌟99
 
-救死扶伤猫猫车🌟89
+救死扶伤猫猫车🌟90
 
-虫虫的游戏🌟76
+虫虫的游戏🌟79
 
-Neuro Tarot Dice-Bliss🌟58
+Neuro Tarot Dice-Bliss🌟57
 
