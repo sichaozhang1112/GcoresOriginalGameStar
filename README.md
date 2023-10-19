@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-18 
+## BOOOM all stars, update on 2023-10-19 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -27,61 +27,61 @@ NOOK FALL🌟475
 
 CATO🌟381
 
-S4U：都市朋克2011与爱的重拳🌟288
+S4U：都市朋克2011与爱的重拳🌟291
 
 目标深度：RE🌟269
 
-腐根之里—Reforest🌟228
+腐根之里—Reforest🌟229
 
 倒影与告解室🌟207
 
-## BOOOM 23lab stars, update on 2023-10-18 
+## BOOOM 23lab stars, update on 2023-10-19 
 <div align='center'>
 <img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
 日月边缘🌟162
 
+Resonator🌟70
+
 AIA🌟69
 
-Resonator🌟69
-
-猫德里安🌟62
-
-故障修复公司🌟50
+猫德里安🌟66
 
 MAN IN BLANK🌟50
+
+故障修复公司🌟50
 
 多元窗口🌟50
 
 Morandi🌟41
 
-D.E.M.O【可在线试玩】🌟38
+D.E.M.O【可在线试玩】🌟39
 
 阴差阳间道🌟30
 
-## BOOOM 23dice stars, update on 2023-10-18 
+## BOOOM 23dice stars, update on 2023-10-19 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-西西弗之骰🌟138
+宇宙尽头的酒馆🌟177
 
-约会普拉斯 DatePlus🌟125
+西西弗之骰🌟143
 
-葬冬之旅🌟107
+约会普拉斯 DatePlus🌟129
 
-来次占卜吧！~上网时●●的话人生就结束了吧~🌟104
+葬冬之旅🌟111
 
-救死扶伤猫猫车🌟87
+来次占卜吧！~上网时●●的话人生就结束了吧~🌟108
 
-丰饶女神之骰🌟78
+神之骰🌟103
 
-虫虫的游戏🌟72
+丰饶女神之骰🌟90
 
-Neuro Tarot Dice-Bliss🌟56
+救死扶伤猫猫车🌟89
 
-牛魔大对决🌟50
+虫虫的游戏🌟76
 
-《银荷的士高：双轨和弦》🌟50
+Neuro Tarot Dice-Bliss🌟58
 
