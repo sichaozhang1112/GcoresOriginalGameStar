@@ -3,6 +3,7 @@ import pickle
 import datetime
 import os
 import argparse
+import time
 import matplotlib.pyplot as plt
 from typing import List
 
@@ -13,6 +14,7 @@ class GameInfo:
         self.id = id
         if not self._request():
             return
+
         self.star: int = self.request["data"]["attributes"][
             "subscriptions-count"]
         self.title: str = self.request["data"]["attributes"]["title"]
@@ -34,11 +36,13 @@ class GameInfo:
                 "?include=tags%2Cuser%2Cgame-stores%2Cinvolvements.entity.user&meta[tags]=%2C"
             )
             self.request = requests.get(url).json()
+            time.sleep(1)
             return True
 
         except Exception as e:
             print(e)
             print("fail to request game ", self.id, "!")
+            time.sleep(1)
             return False
 
 
@@ -117,6 +121,7 @@ def get_game_ids() -> set:
                 if "BOOOM作品" not in game["attributes"]["development-status"]:
                     continue
                 game_ids.add(game["id"])
+            time.sleep(1)
     except Exception as e:
         print(e)
         print("fail to request game ids!")
