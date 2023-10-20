@@ -60,28 +60,28 @@ D.E.M.O【可在线试玩】🌟39
 
 魔女之愿🌟30
 
-## BOOOM 23dice stars, update on 2023-10-20 
+## BOOOM 23dice stars, update on 2023-10-21 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-宇宙尽头的酒馆🌟185
-
-西西弗之骰🌟145
+宇宙尽头的酒馆🌟187
 
 约会普拉斯 DatePlus🌟132
 
-葬冬之旅🌟120
+葬冬之旅🌟121
 
-来次占卜吧！~上网时●●的话人生就结束了吧~🌟115
+来次占卜吧！~上网时●●的话人生就结束了吧~🌟121
 
-神之骰🌟105
+丰饶女神之骰🌟109
 
-丰饶女神之骰🌟102
+神之骰🌟107
 
-救死扶伤猫猫车🌟90
+救死扶伤猫猫车🌟91
 
 Neuro Tarot Dice-Bliss🌟57
 
-黑墙之下🌟54
+黑墙之下🌟55
+
+牛魔大对决🌟53
 

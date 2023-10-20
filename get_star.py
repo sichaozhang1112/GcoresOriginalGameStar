@@ -27,7 +27,12 @@ class GameInfo:
                 2023, 9, 20) and modified_date <= datetime.datetime(
                     2023, 10, 11):
             self.type = "23dice"
-        # print("find ", self.id, " ", self.title, " ", self.type)
+        self.team_size = 0
+        for data in self.request["included"]:
+            if data["type"] == "users":
+                self.team_size += 1
+        # print("find ", self.id, "🎮", self.title, "🌟", self.star, "😊",
+        #       self.team_size)
 
     def _request(self) -> bool:
         try:
@@ -55,6 +60,7 @@ class GameInfos:
         self.max_num = max_num
         self.date = date
         self.infos = game_infos
+        self.type = game_infos[0].type
 
     def find(self, id: int) -> int:
         for info in self.infos:
@@ -70,9 +76,13 @@ class GameInfos:
 
     def print(self) -> None:
         print("today date: ", self.date)
-        print("booom game total num: ", len(self.infos))
-        for info in self.infos[:self.max_num]:
-            print(info.title, "🌟", info.star)
+        print("booom ", self.type, " game total num: ", len(self.infos))
+        for info in self.infos[:]:
+            print(
+                "{:<5}".format("🌟" + str(info.star)),
+                "{:<5}".format("😊" + str(info.team_size)),
+                "{:<20}".format("🎮" + info.title),
+            )
 
 
 def get_today_infos() -> GameInfos:
@@ -208,6 +218,10 @@ if __name__ == "__main__":
                         type=str,
                         default="all",
                         help="update today infos")
+    parser.add_argument("--print",
+                        type=str,
+                        default="",
+                        help="print today infos")
     parser.add_argument("--clear",
                         action="store_true",
                         help="clear cached infos")
@@ -231,16 +245,22 @@ if __name__ == "__main__":
         for id in game_ids:
             if parser.parse_args().debug == str(id):
                 print("find ", id)
+    elif parser.parse_args().print != "":
+        infos: List[GameInfos] = load_infos(parser.parse_args().print)
+        if len(infos) == 0:
+            print("no infos!")
+            exit(0)
+        infos[-1].print()
     elif parser.parse_args().update == "all":
         today_infos: GameInfos = get_today_infos()
         for type in booom_list:
             type_infos: GameInfos = select_type_infos(today_infos, type)
-            type_infos.print()
+            # type_infos.print()
             update(type_infos, type)
     elif parser.parse_args().update in booom_list:
         today_infos: GameInfos = get_today_infos()
         type = parser.parse_args().update
         type_infos: GameInfos = select_type_infos(today_infos, type)
-        type_infos.print()
+        # type_infos.print()
         update(type_infos, type)
     write_readme(booom_list)
