@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-28 
+## BOOOM all stars, update on 2023-10-29 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -31,11 +31,11 @@ S4U：都市朋克2011与爱的重拳🌟292
 
 目标深度：RE🌟270
 
+腐根之里—Reforest🌟230
+
 宇宙尽头的酒馆🌟209
 
-倒影与告解室🌟207
-
-## BOOOM 23lab stars, update on 2023-10-28 
+## BOOOM 23lab stars, update on 2023-10-29 
 <div align='center'>
 <img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -54,24 +54,24 @@ Resonator🌟71
 
 MAN IN BLANK🌟50
 
-Morandi🌟40
+D.E.M.O【可在线试玩】🌟41
 
-D.E.M.O【可在线试玩】🌟40
+Morandi🌟40
 
 阴差阳间道🌟30
 
-## BOOOM 23dice stars, update on 2023-10-28 
+## BOOOM 23dice stars, update on 2023-10-29 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
 宇宙尽头的酒馆🌟209
 
-西西弗之骰🌟155
+西西弗之骰🌟156
 
-来次占卜吧！~上网时●●的话人生就结束了吧~🌟142
+来次占卜吧！~上网时●●的话人生就结束了吧~🌟143
 
-约会普拉斯 DatePlus🌟138
+约会普拉斯 DatePlus🌟139
 
 葬冬之旅🌟127
 
@@ -79,9 +79,9 @@ D.E.M.O【可在线试玩】🌟40
 
 神之骰🌟114
 
-救死扶伤猫猫车🌟97
+救死扶伤猫猫车🌟100
 
 虫虫的游戏🌟88
 
-脱壳金蝉：故土难归🌟60
+黑墙之下🌟60
 
