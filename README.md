@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-10-30 
+## BOOOM all stars, update on 2023-10-31 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -19,7 +19,7 @@ python3 get_star.py --update
 
 REconnect 再连接🌟831
 
-Recover 奇愈地下城🌟707
+Recover 奇愈地下城🌟708
 
 NOOK FALL🌟481
 
@@ -31,11 +31,11 @@ S4U：都市朋克2011与爱的重拳🌟292
 
 目标深度：RE🌟270
 
-宇宙尽头的酒馆🌟209
+腐根之里—Reforest🌟230
 
-倒影与告解室🌟207
+宇宙尽头的酒馆🌟211
 
-## BOOOM 23lab stars, update on 2023-10-30 
+## BOOOM 23lab stars, update on 2023-10-31 
 <div align='center'>
 <img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -48,9 +48,9 @@ Resonator🌟71
 
 猫德里安🌟68
 
-故障修复公司🌟51
-
 多元窗口🌟51
+
+故障修复公司🌟51
 
 MAN IN BLANK🌟50
 
@@ -58,30 +58,30 @@ D.E.M.O【可在线试玩】🌟41
 
 Morandi🌟40
 
-魔女之愿🌟30
+阴差阳间道🌟30
 
-## BOOOM 23dice stars, update on 2023-10-30 
+## BOOOM 23dice stars, update on 2023-10-31 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-宇宙尽头的酒馆🌟209
+宇宙尽头的酒馆🌟211
 
-西西弗之骰🌟157
+西西弗之骰🌟163
 
 来次占卜吧！~上网时●●的话人生就结束了吧~🌟145
 
 约会普拉斯 DatePlus🌟141
 
-葬冬之旅🌟127
+葬冬之旅🌟130
 
-丰饶女神之骰🌟123
+丰饶女神之骰🌟127
 
-神之骰🌟115
+神之骰🌟116
 
-救死扶伤猫猫车🌟100
+救死扶伤猫猫车🌟101
 
-虫虫的游戏🌟88
+虫虫的游戏🌟89
 
 黑墙之下🌟60
 
