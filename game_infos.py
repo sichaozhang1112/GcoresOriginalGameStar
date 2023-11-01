@@ -67,7 +67,7 @@ class GameInfos:
     def serialize(self) -> str:
         result: str = ""
         for info in self.infos[:self.max_num]:
-            result += info.title + "🌟" + str(info.star) + "\n\n"
+            result += "{:<5}".format("🌟" + str(info.star)) + "{:<5}".format("😊" + str(info.team_size)) + "{:<20}".format("🎮" + info.title) + "\n\n"
         return result
 
     def print(self) -> None:
