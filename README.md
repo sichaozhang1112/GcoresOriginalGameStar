@@ -15,73 +15,73 @@ python3 get_star.py --update
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-喜丧🌟849
+🌟849 😊11  🎮喜丧                 
 
-REconnect 再连接🌟831
+🌟831 😊1   🎮REconnect 再连接      
 
-Recover 奇愈地下城🌟708
+🌟708 😊9   🎮Recover 奇愈地下城      
 
-NOOK FALL🌟481
+🌟481 😊7   🎮NOOK FALL          
 
-心声渺远🌟390
+🌟390 😊16  🎮心声渺远               
 
-CATO🌟385
+🌟385 😊2   🎮CATO               
 
-S4U：都市朋克2011与爱的重拳🌟292
+🌟292 😊3   🎮S4U：都市朋克2011与爱的重拳  
 
-目标深度：RE🌟270
+🌟270 😊21  🎮目标深度：RE            
 
-腐根之里—Reforest🌟230
+🌟230 😊7   🎮腐根之里—Reforest      
 
-宇宙尽头的酒馆🌟213
+🌟214 😊30  🎮宇宙尽头的酒馆            
 
 ## BOOOM 23lab stars, update on 2023-11-01 
 <div align='center'>
 <img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-日月边缘🌟163
+🌟163 😊5   🎮日月边缘               
 
-AIA🌟73
+🌟73  😊7   🎮AIA                
 
-Resonator🌟72
+🌟72  😊8   🎮Resonator          
 
-猫德里安🌟69
+🌟69  😊4   🎮猫德里安               
 
-故障修复公司🌟51
+🌟51  😊2   🎮故障修复公司             
 
-多元窗口🌟51
+🌟51  😊1   🎮多元窗口               
 
-MAN IN BLANK🌟50
+🌟50  😊6   🎮MAN IN BLANK       
 
-D.E.M.O【可在线试玩】🌟41
+🌟41  😊7   🎮D.E.M.O【可在线试玩】     
 
-Morandi🌟40
+🌟40  😊1   🎮Morandi            
 
-魔女之愿🌟30
+🌟30  😊5   🎮魔女之愿               
 
 ## BOOOM 23dice stars, update on 2023-11-01 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-宇宙尽头的酒馆🌟213
+🌟214 😊30  🎮宇宙尽头的酒馆            
 
-西西弗之骰🌟165
+🌟166 😊5   🎮西西弗之骰              
 
-来次占卜吧！~上网时●●的话人生就结束了吧~🌟146
+🌟146 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
-约会普拉斯 DatePlus🌟141
+🌟141 😊8   🎮约会普拉斯 DatePlus     
 
-丰饶女神之骰🌟131
+🌟131 😊2   🎮丰饶女神之骰             
 
-葬冬之旅🌟130
+🌟130 😊9   🎮葬冬之旅               
 
-神之骰🌟117
+🌟117 😊1   🎮神之骰                
 
-救死扶伤猫猫车🌟101
+🌟101 😊6   🎮救死扶伤猫猫车            
 
-虫虫的游戏🌟89
+🌟89  😊8   🎮虫虫的游戏              
 
-黑墙之下🌟60
+🌟60  😊1   🎮黑墙之下               
 
