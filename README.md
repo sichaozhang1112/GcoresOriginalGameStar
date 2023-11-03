@@ -10,16 +10,16 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## BOOOM all stars, update on 2023-11-02 
+## BOOOM all stars, update on 2023-11-03 
 <div align='center'>
 <img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-🌟849 😊11  🎮喜丧                 
+🌟851 😊11  🎮喜丧                 
 
-🌟831 😊1   🎮REconnect 再连接      
+🌟834 😊1   🎮REconnect 再连接      
 
-🌟709 😊9   🎮Recover 奇愈地下城      
+🌟710 😊10  🎮Recover 奇愈地下城      
 
 🌟481 😊7   🎮NOOK FALL          
 
@@ -27,15 +27,15 @@ python3 get_star.py --update
 
 🌟385 😊2   🎮CATO               
 
-🌟292 😊3   🎮S4U：都市朋克2011与爱的重拳  
+🌟293 😊4   🎮S4U：都市朋克2011与爱的重拳  
 
 🌟270 😊21  🎮目标深度：RE            
 
-🌟215 😊30  🎮宇宙尽头的酒馆            
+🌟217 😊30  🎮宇宙尽头的酒馆            
 
 🌟207 😊6   🎮倒影与告解室             
 
-## BOOOM 23lab stars, update on 2023-11-02 
+## BOOOM 23lab stars, update on 2023-11-03 
 <div align='center'>
 <img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
@@ -58,30 +58,30 @@ python3 get_star.py --update
 
 🌟40  😊1   🎮Morandi            
 
-🌟30  😊4   🎮阴差阳间道              
+🌟30  😊5   🎮魔女之愿               
 
-## BOOOM 23dice stars, update on 2023-11-02 
+## BOOOM 23dice stars, update on 2023-11-03 
 <div align='center'>
 <img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
 </div>
 
-🌟215 😊30  🎮宇宙尽头的酒馆            
+🌟217 😊30  🎮宇宙尽头的酒馆            
 
-🌟169 😊5   🎮西西弗之骰              
+🌟148 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
-🌟146 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+🌟142 😊8   🎮约会普拉斯 DatePlus     
 
-🌟141 😊8   🎮约会普拉斯 DatePlus     
+🌟136 😊2   🎮丰饶女神之骰             
 
-🌟134 😊2   🎮丰饶女神之骰             
+🌟131 😊9   🎮葬冬之旅               
 
-🌟130 😊9   🎮葬冬之旅               
+🌟120 😊1   🎮神之骰                
 
-🌟118 😊1   🎮神之骰                
-
-🌟102 😊6   🎮救死扶伤猫猫车            
+🌟103 😊6   🎮救死扶伤猫猫车            
 
 🌟92  😊8   🎮虫虫的游戏              
 
-🌟67  😊1   🎮脱壳金蝉：故土难归          
+🌟68  😊1   🎮脱壳金蝉：故土难归          
+
+🌟62  😊11  🎮《银荷的士高：双轨和弦》       
 
