@@ -59,8 +59,10 @@ def write_readme(booom_list: List) -> None:
             if len(infos) == 0:
                 continue
             info = infos[-1]
-            readme.write("## BOOOM " + type + " stars, update on " +
-                         info.date + " \n")
+            readme.write(
+                "## [BOOOM " + type + " stars, update on " + info.date +
+                "](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/"
+                + type + ".html)" + " \n")
             readme.write("<div align='center'>\n")
             readme.write(
                 "<img src=./pics/" + type +
