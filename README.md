@@ -10,10 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [BOOOM all stars, update on 2023-11-04](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html)
-<div align='center'>
-<img src=./pics/all_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
-</div>
+## [🔗BOOOM all stars, update on 2023-11-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html)
 
 🌟851 😊11  🎮喜丧
 
@@ -35,10 +32,7 @@ python3 get_star.py --update
 
 🌟207 😊6   🎮倒影与告解室
 
-## [BOOOM 23lab stars, update on 2023-11-04](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html)
-<div align='center'>
-<img src=./pics/23lab_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
-</div>
+## [🔗BOOOM 23lab stars, update on 2023-11-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html)
 
 🌟163 😊5   🎮日月边缘
 
@@ -60,10 +54,7 @@ python3 get_star.py --update
 
 🌟30  😊5   🎮魔女之愿
 
-## [BOOOM 23dice stars, update on 2023-11-04](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html)
-<div align='center'>
-<img src=./pics/23dice_stars.png alt='BOOOM stars' style='width:1000px;height:auto;'>
-</div>
+## [🔗BOOOM 23dice stars, update on 2023-11-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html)
 
 🌟219 😊30  🎮宇宙尽头的酒馆
 
