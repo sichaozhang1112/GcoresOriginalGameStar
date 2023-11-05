@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: 23dice
-      url: $GITHUB_WORKSPACE/23dice.html
+      url: https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
