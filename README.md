@@ -10,41 +10,41 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-11-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟851 😊11  🎮喜丧                 
 
 🌟836 😊1   🎮REconnect 再连接      
 
 🌟710 😊10  🎮Recover 奇愈地下城      
 
-🌟485 😊7   🎮NOOK FALL          
+🌟486 😊7   🎮NOOK FALL          
 
-🌟415 😊4   🎮S4U：都市朋克2011与爱的重拳  
+🌟451 😊4   🎮S4U：都市朋克2011与爱的重拳  
 
 🌟390 😊16  🎮心声渺远               
 
-🌟385 😊2   🎮CATO               
+🌟386 😊2   🎮CATO               
 
 🌟271 😊21  🎮目标深度：RE            
 
-🌟222 😊30  🎮宇宙尽头的酒馆            
+🌟224 😊30  🎮宇宙尽头的酒馆            
 
 🌟208 😊6   🎮倒影与告解室             
 
-## [🔗BOOOM 23lab stars, update on 2023-11-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
-🌟73  😊7   🎮AIA                
+🌟74  😊7   🎮AIA                
 
-🌟72  😊8   🎮Resonator          
+🌟73  😊8   🎮Resonator          
 
 🌟69  😊4   🎮猫德里安               
 
 🌟56  😊4   🎮我请求您的神谕            
 
-🌟51  😊2   🎮故障修复公司             
+🌟52  😊1   🎮多元窗口               
 
-🌟51  😊1   🎮多元窗口               
+🌟51  😊2   🎮故障修复公司             
 
 🌟50  😊6   🎮MAN IN BLANK       
 
@@ -52,10 +52,10 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2023-11-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
-🌟222 😊30  🎮宇宙尽头的酒馆            
+## [🔗BOOOM 23dice stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+🌟224 😊30  🎮宇宙尽头的酒馆            
 
-🌟174 😊5   🎮西西弗之骰              
+🌟176 😊5   🎮西西弗之骰              
 
 🌟142 😊8   🎮约会普拉斯 DatePlus     
 
