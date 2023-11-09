@@ -10,20 +10,20 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟851 😊11  🎮喜丧                 
+## [🔗BOOOM all stars, update on 2023-11-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟859 😊1   🎮星幕协约 A.A.A.        
 
-🌟836 😊1   🎮REconnect 再连接      
+🌟852 😊11  🎮喜丧                 
 
-🌟710 😊10  🎮Recover 奇愈地下城      
+🌟711 😊10  🎮Recover 奇愈地下城      
 
-🌟486 😊7   🎮NOOK FALL          
+🌟486 😊7   🎮往复.西隅              
 
-🌟451 😊4   🎮S4U：都市朋克2011与爱的重拳  
+🌟467 😊4   🎮S4U：都市朋克2011与爱的重拳  
 
 🌟390 😊16  🎮心声渺远               
 
-🌟386 😊2   🎮CATO               
+🌟389 😊2   🎮CATO               
 
 🌟271 😊21  🎮目标深度：RE            
 
@@ -31,7 +31,7 @@ python3 get_star.py --update
 
 🌟208 😊6   🎮倒影与告解室             
 
-## [🔗BOOOM 23lab stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-11-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
 🌟74  😊7   🎮AIA                
@@ -52,10 +52,12 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2023-11-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2023-11-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟224 😊30  🎮宇宙尽头的酒馆            
 
-🌟176 😊5   🎮西西弗之骰              
+🌟177 😊5   🎮西西弗之骰              
+
+🌟156 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
 🌟142 😊8   🎮约会普拉斯 DatePlus     
 
@@ -63,13 +65,11 @@ python3 get_star.py --update
 
 🌟135 😊10  🎮葬冬之旅               
 
-🌟126 😊1   🎮神之骰                
+🌟127 😊1   🎮神之骰                
 
-🌟105 😊6   🎮救死扶伤猫猫车            
+🌟106 😊6   🎮救死扶伤猫猫车            
 
 🌟92  😊8   🎮虫虫的游戏              
 
 🌟68  😊1   🎮脱壳金蝉：故土难归          
-
-🌟63  😊11  🎮《银荷的士高：双轨和弦》       
 
