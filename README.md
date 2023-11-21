@@ -10,35 +10,35 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-11-20👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2023-11-21👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟853 😊11  🎮喜丧                 
 
 🌟498 😊7   🎮往复.西隅              
 
-🌟394 😊2   🎮CATO               
+🌟395 😊2   🎮CATO               
 
 🌟392 😊16  🎮心声渺远               
 
-🌟273 😊7   🎮腐根之里               
+🌟279 😊7   🎮腐根之里               
 
-🌟272 😊21  🎮目标深度：RE            
+🌟271 😊21  🎮目标深度：RE            
 
-🌟229 😊30  🎮宇宙尽头的酒馆            
+🌟230 😊30  🎮宇宙尽头的酒馆            
 
 🌟208 😊6   🎮倒影与告解室             
 
 🌟194 😊5   🎮西西弗之骰              
 
-🌟183 😊2   🎮【BOOOM】最后的梦        
+🌟182 😊2   🎮【BOOOM】最后的梦        
 
-## [🔗BOOOM 23lab stars, update on 2023-11-20👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-11-21👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
 🌟73  😊7   🎮AIA                
 
 🌟73  😊8   🎮Resonator          
 
-🌟69  😊4   🎮猫德里安               
+🌟68  😊4   🎮猫德里安               
 
 🌟57  😊4   🎮我请求您的神谕            
 
@@ -52,12 +52,12 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2023-11-20👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
-🌟229 😊30  🎮宇宙尽头的酒馆            
+## [🔗BOOOM 23dice stars, update on 2023-11-21👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+🌟230 😊30  🎮宇宙尽头的酒馆            
 
 🌟194 😊5   🎮西西弗之骰              
 
-🌟174 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+🌟173 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
 🌟153 😊2   🎮丰饶女神之骰             
 
@@ -65,11 +65,11 @@ python3 get_star.py --update
 
 🌟148 😊8   🎮约会普拉斯 DatePlus     
 
+🌟131 😊1   🎮神之骰                
+
 🌟116 😊6   🎮救死扶伤猫猫车            
 
 🌟97  😊8   🎮虫虫的游戏              
 
 🌟70  😊1   🎮脱壳金蝉：故土难归          
-
-🌟64  😊1   🎮黑墙之下               
 
