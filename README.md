@@ -10,33 +10,33 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-11-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟968 😊1   🎮星幕协约 A.A.A.        
+
 🌟853 😊11  🎮喜丧                 
 
-🌟502 😊4   🎮S4U：都市朋克2011与爱的重拳  
+🌟503 😊4   🎮S4U：都市朋克2011与爱的重拳  
 
-🌟498 😊7   🎮往复.西隅              
+🌟499 😊7   🎮往复.西隅              
 
 🌟395 😊2   🎮CATO               
 
 🌟392 😊16  🎮心声渺远               
 
-🌟284 😊7   🎮腐根之里               
+🌟285 😊7   🎮腐根之里               
 
 🌟271 😊21  🎮目标深度：RE            
 
-🌟230 😊30  🎮宇宙尽头的酒馆            
+🌟232 😊30  🎮宇宙尽头的酒馆            
 
 🌟208 😊6   🎮倒影与告解室             
 
-🌟196 😊5   🎮西西弗之骰              
-
-## [🔗BOOOM 23lab stars, update on 2023-11-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
-🌟73  😊8   🎮Resonator          
+🌟74  😊7   🎮AIA                
 
-🌟73  😊7   🎮AIA                
+🌟73  😊8   🎮Resonator          
 
 🌟68  😊4   🎮猫德里安               
 
@@ -52,16 +52,14 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2023-11-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
-🌟230 😊30  🎮宇宙尽头的酒馆            
+## [🔗BOOOM 23dice stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+🌟232 😊30  🎮宇宙尽头的酒馆            
 
-🌟196 😊5   🎮西西弗之骰              
+🌟198 😊5   🎮西西弗之骰              
 
 🌟173 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
-🌟154 😊2   🎮丰饶女神之骰             
-
-🌟154 😊8   🎮约会普拉斯 DatePlus     
+🌟155 😊8   🎮约会普拉斯 DatePlus     
 
 🌟152 😊10  🎮葬冬之旅               
 
@@ -72,4 +70,6 @@ python3 get_star.py --update
 🌟98  😊8   🎮虫虫的游戏              
 
 🌟70  😊1   🎮脱壳金蝉：故土难归          
+
+🌟65  😊11  🎮《银荷的士高：双轨和弦》       
 
