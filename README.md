@@ -10,8 +10,8 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟968 😊1   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2023-11-25👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟969 😊1   🎮星幕协约 A.A.A.        
 
 🌟853 😊11  🎮喜丧                 
 
@@ -19,24 +19,26 @@ python3 get_star.py --update
 
 🌟499 😊7   🎮往复.西隅              
 
-🌟395 😊2   🎮CATO               
+🌟396 😊2   🎮CATO               
 
 🌟392 😊16  🎮心声渺远               
 
-🌟285 😊7   🎮腐根之里               
+🌟286 😊7   🎮腐根之里               
 
 🌟271 😊21  🎮目标深度：RE            
 
-🌟232 😊30  🎮宇宙尽头的酒馆            
+🌟233 😊30  🎮宇宙尽头的酒馆            
 
 🌟208 😊6   🎮倒影与告解室             
 
-## [🔗BOOOM 23lab stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-11-25👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
 🌟74  😊7   🎮AIA                
 
 🌟73  😊8   🎮Resonator          
+
+🌟72  😊1   🎮人是不能飞的             
 
 🌟68  😊4   🎮猫德里安               
 
@@ -50,26 +52,24 @@ python3 get_star.py --update
 
 🌟45  😊5   🎮边境奇旅 III 重制版       
 
-🌟42  😊7   🎮D.E.M.O【可在线试玩】     
-
-## [🔗BOOOM 23dice stars, update on 2023-11-24👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
-🌟232 😊30  🎮宇宙尽头的酒馆            
+## [🔗BOOOM 23dice stars, update on 2023-11-25👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+🌟233 😊30  🎮宇宙尽头的酒馆            
 
 🌟198 😊5   🎮西西弗之骰              
 
-🌟173 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+🌟175 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+
+🌟159 😊2   🎮丰饶女神之骰             
 
 🌟155 😊8   🎮约会普拉斯 DatePlus     
 
 🌟152 😊10  🎮葬冬之旅               
 
-🌟132 😊1   🎮神之骰                
+🌟133 😊1   🎮神之骰                
 
 🌟117 😊6   🎮救死扶伤猫猫车            
 
-🌟98  😊8   🎮虫虫的游戏              
+🌟99  😊8   🎮虫虫的游戏              
 
 🌟70  😊1   🎮脱壳金蝉：故土难归          
-
-🌟65  😊11  🎮《银荷的士高：双轨和弦》       
 
