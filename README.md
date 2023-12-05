@@ -10,8 +10,8 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-12-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟984 😊2   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟986 😊2   🎮星幕协约 A.A.A.        
 
 🌟853 😊11  🎮喜丧                 
 
@@ -25,20 +25,20 @@ python3 get_star.py --update
 
 🌟392 😊16  🎮心声渺远               
 
-🌟316 😊7   🎮腐根之里               
+🌟317 😊7   🎮腐根之里               
 
 🌟272 😊21  🎮目标深度：RE            
 
-🌟245 😊30  🎮宇宙尽头的酒馆            
+🌟246 😊30  🎮宇宙尽头的酒馆            
 
-## [🔗BOOOM 23lab stars, update on 2023-12-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
 🌟74  😊7   🎮AIA                
 
-🌟73  😊8   🎮Resonator          
-
 🌟73  😊1   🎮人是不能飞的             
+
+🌟73  😊8   🎮Resonator          
 
 🌟68  😊4   🎮猫德里安               
 
@@ -52,22 +52,22 @@ python3 get_star.py --update
 
 🌟45  😊5   🎮边境奇旅 III 重制版       
 
-## [🔗BOOOM 23dice stars, update on 2023-12-04👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
-🌟245 😊30  🎮宇宙尽头的酒馆            
+## [🔗BOOOM 23dice stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+🌟246 😊30  🎮宇宙尽头的酒馆            
 
 🌟216 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
-🌟207 😊5   🎮西西弗之骰              
+🌟206 😊5   🎮西西弗之骰              
 
-🌟201 😊2   🎮丰饶女神之骰             
+🌟200 😊2   🎮丰饶女神之骰             
 
-🌟171 😊10  🎮葬冬之旅               
+🌟170 😊10  🎮葬冬之旅               
 
 🌟159 😊8   🎮约会普拉斯 DatePlus     
 
-🌟140 😊6   🎮救死扶伤猫猫车            
+🌟141 😊1   🎮神之骰                
 
-🌟140 😊1   🎮神之骰                
+🌟138 😊6   🎮救死扶伤猫猫车            
 
 🌟106 😊8   🎮虫虫的游戏              
 
