@@ -10,16 +10,16 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2023-12-06👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟986 😊2   🎮星幕协约 A.A.A.        
 
 🌟853 😊11  🎮喜丧                 
 
 🌟748 😊10  🎮奇愈地下城              
 
-🌟540 😊4   🎮S4U：都市朋克2011与爱的重拳  
+🌟541 😊4   🎮S4U：都市朋克2011与爱的重拳  
 
-🌟508 😊7   🎮往复.西隅              
+🌟509 😊7   🎮往复.西隅              
 
 🌟409 😊2   🎮CATO               
 
@@ -31,14 +31,14 @@ python3 get_star.py --update
 
 🌟246 😊30  🎮宇宙尽头的酒馆            
 
-## [🔗BOOOM 23lab stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2023-12-06👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟163 😊5   🎮日月边缘               
 
 🌟74  😊7   🎮AIA                
 
-🌟73  😊1   🎮人是不能飞的             
-
 🌟73  😊8   🎮Resonator          
+
+🌟73  😊1   🎮人是不能飞的             
 
 🌟68  😊4   🎮猫德里安               
 
@@ -46,13 +46,13 @@ python3 get_star.py --update
 
 🌟52  😊1   🎮多元窗口               
 
-🌟51  😊2   🎮故障修复公司             
+🌟52  😊2   🎮故障修复公司             
 
 🌟50  😊6   🎮MAN IN BLANK       
 
 🌟45  😊5   🎮边境奇旅 III 重制版       
 
-## [🔗BOOOM 23dice stars, update on 2023-12-05👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2023-12-06👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟246 😊30  🎮宇宙尽头的酒馆            
 
 🌟216 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
@@ -65,7 +65,7 @@ python3 get_star.py --update
 
 🌟159 😊8   🎮约会普拉斯 DatePlus     
 
-🌟141 😊1   🎮神之骰                
+🌟142 😊1   🎮神之骰                
 
 🌟138 😊6   🎮救死扶伤猫猫车            
 
