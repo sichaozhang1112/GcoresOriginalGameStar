@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-01-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2024-01-10👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟760 😊10  🎮奇愈地下城              
 
 🌟515 😊7   🎮往复.西隅              
@@ -31,7 +31,7 @@ python3 get_star.py --update
 
 🌟164 😊5   🎮日月边缘               
 
-## [🔗BOOOM 23lab stars, update on 2024-01-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2024-01-10👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟164 😊5   🎮日月边缘               
 
 🌟74  😊7   🎮AIA                
@@ -52,7 +52,7 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2024-01-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-01-10👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟256 😊30  🎮宇宙尽头的酒馆            
 
 🌟210 😊5   🎮西西弗之骰              
@@ -71,5 +71,5 @@ python3 get_star.py --update
 
 🌟60  😊18  🎮盒以为家               
 
-🌟58  😊2   🎮Neuro Tarot Dice-Bliss
+🌟58  😊5   🎮Doghost幽灵狗         
 
