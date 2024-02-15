@@ -10,8 +10,8 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-02-14👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟1028😊4   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2024-02-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟1029😊4   🎮星幕协约 A.A.A.        
 
 🌟769 😊12  🎮奇愈地下城              
 
@@ -31,7 +31,7 @@ python3 get_star.py --update
 
 🌟195 😊2   🎮《稗子 The Dream Of A Cockspur》
 
-## [🔗BOOOM 23lab stars, update on 2024-02-14👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2024-02-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟164 😊5   🎮日月边缘               
 
 🌟75  😊1   🎮人是不能飞的             
@@ -52,12 +52,12 @@ python3 get_star.py --update
 
 🌟42  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2024-02-14👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-02-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟259 😊30  🎮宇宙尽头的酒馆            
 
 🌟213 😊5   🎮西西弗之骰              
 
-🌟172 😊10  🎮葬冬之旅               
+🌟173 😊10  🎮葬冬之旅               
 
 🌟156 😊1   🎮神之骰                
 
