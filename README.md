@@ -10,12 +10,12 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-04-13👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟1039😊4   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2024-04-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟1040😊4   🎮星幕协约 A.A.A.        
 
-🌟891 😊11  🎮喜丧                 
+🌟909 😊11  🎮喜丧                 
 
-🌟849 😊12  🎮奇愈地下城              
+🌟851 😊12  🎮奇愈地下城              
 
 🌟593 😊6   🎮S4U：都市朋克2011与爱的重拳  
 
@@ -23,7 +23,7 @@ python3 get_star.py --update
 
 🌟442 😊5   🎮CATO               
 
-🌟414 😊16  🎮心声渺远               
+🌟413 😊16  🎮心声渺远               
 
 🌟383 😊10  🎮腐根之里               
 
@@ -31,7 +31,7 @@ python3 get_star.py --update
 
 🌟266 😊30  🎮宇宙尽头的酒馆            
 
-## [🔗BOOOM 23lab stars, update on 2024-04-13👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2024-04-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟165 😊5   🎮日月边缘               
 
 🌟79  😊1   🎮人是不能飞的             
@@ -52,7 +52,7 @@ python3 get_star.py --update
 
 🌟44  😊7   🎮D.E.M.O【可在线试玩】     
 
-## [🔗BOOOM 23dice stars, update on 2024-04-13👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-04-15👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟266 😊30  🎮宇宙尽头的酒馆            
 
 🌟172 😊10  🎮葬冬之旅               
