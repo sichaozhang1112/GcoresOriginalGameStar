@@ -10,12 +10,12 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-04-22👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2024-04-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟1041😊4   🎮星幕协约 A.A.A.        
 
-🌟934 😊11  🎮喜丧                 
+🌟935 😊11  🎮喜丧                 
 
-🌟857 😊12  🎮奇愈地下城              
+🌟858 😊12  🎮奇愈地下城              
 
 🌟595 😊6   🎮S4U：都市朋克2011与爱的重拳  
 
@@ -25,51 +25,39 @@ python3 get_star.py --update
 
 🌟414 😊16  🎮心声渺远               
 
-🌟383 😊10  🎮腐根之里               
-
 🌟282 😊21  🎮目标深度：RE            
 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
-## [🔗BOOOM 23lab stars, update on 2024-04-22👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
-🌟164 😊5   🎮日月边缘               
+🌟224 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
+## [🔗BOOOM 23lab stars, update on 2024-04-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟78  😊1   🎮人是不能飞的             
 
-🌟74  😊7   🎮AIA                
+🌟32  😊7   🎮王牌战略ACE Strategy   
 
-🌟73  😊8   🎮Resonator          
+🌟23  😊6   🎮ANTI-WORKING       
 
-🌟68  😊4   🎮猫德里安               
+🌟16  😊4   🎮【BOOOM】出门          
 
-🌟57  😊4   🎮我请求您的神谕            
-
-🌟52  😊1   🎮多元窗口               
-
-🌟49  😊6   🎮MAN IN BLANK       
-
-🌟46  😊7   🎮D.E.M.O【可在线试玩】     
-
-🌟45  😊5   🎮边境奇旅 III 重制版       
-
-## [🔗BOOOM 23dice stars, update on 2024-04-22👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-04-23👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
-🌟223 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+🌟224 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
 🌟171 😊10  🎮葬冬之旅               
 
-🌟165 😊1   🎮神之骰                
-
-🌟142 😊6   🎮救死扶伤猫猫车            
-
-🌟107 😊8   🎮虫虫的游戏              
-
 🌟81  😊1   🎮黑墙之下               
 
-🌟76  😊1   🎮脱壳金蝉：故土难归          
+🌟63  😊18  🎮盒以为家               
 
-🌟71  😊11  🎮《银荷的士高：双轨和弦》       
+🌟58  😊5   🎮Doghost幽灵狗         
 
-🌟65  😊4   🎮Piece Together     
+🌟40  😊5   🎮恶魔的子弹              
+
+🌟38  😊3   🎮Mound of Music 知音冢 
+
+🌟28  😊1   🎮DICE MATCH:Devil vs Angel
+
+🌟27  😊7   🎮在职计划               
 
