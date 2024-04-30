@@ -10,10 +10,10 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-04-29👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟1048😊4   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2024-04-30👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+🌟1049😊4   🎮星幕协约 A.A.A.        
 
-🌟942 😊11  🎮喜丧                 
+🌟944 😊11  🎮喜丧                 
 
 🌟862 😊12  🎮奇愈地下城              
 
@@ -31,7 +31,7 @@ python3 get_star.py --update
 
 🌟231 😊9   🎮倒影与告解室             
 
-## [🔗BOOOM 23lab stars, update on 2024-04-29👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2024-04-30👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟78  😊1   🎮人是不能飞的             
 
 🌟55  😊2   🎮故障修复公司             
@@ -44,7 +44,7 @@ python3 get_star.py --update
 
 🌟5   😊1   🎮1,2,switch         
 
-## [🔗BOOOM 23dice stars, update on 2024-04-29👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-04-30👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
 🌟225 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
