@@ -11,17 +11,17 @@ python3 get_star.py --update
 ```
 
 ## [🔗BOOOM all stars, update on 2024-05-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
-🌟1052😊4   🎮星幕协约 A.A.A.        
+🌟1053😊4   🎮星幕协约 A.A.A.        
 
-🌟947 😊11  🎮喜丧                 
+🌟948 😊11  🎮喜丧                 
 
-🌟864 😊12  🎮奇愈地下城              
+🌟865 😊12  🎮奇愈地下城              
 
-🌟604 😊6   🎮S4U：都市朋克2011与爱的重拳  
+🌟606 😊6   🎮S4U：都市朋克2011与爱的重拳  
 
 🌟530 😊7   🎮往复.西隅              
 
-🌟446 😊5   🎮CATO               
+🌟447 😊5   🎮CATO               
 
 🌟414 😊16  🎮心声渺远               
 
@@ -29,18 +29,16 @@ python3 get_star.py --update
 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
-🌟238 😊9   🎮倒影与告解室             
+🌟241 😊9   🎮倒影与告解室             
 
 ## [🔗BOOOM 23lab stars, update on 2024-05-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟78  😊1   🎮人是不能飞的             
 
 🌟55  😊2   🎮故障修复公司             
 
-🌟32  😊7   🎮王牌战略ACE Strategy   
-
 🌟23  😊6   🎮ANTI-WORKING       
 
-🌟16  😊4   🎮【BOOOM】出门          
+🌟17  😊4   🎮【BOOOM】出门          
 
 🌟5   😊1   🎮1,2,switch         
 
@@ -59,7 +57,7 @@ python3 get_star.py --update
 
 🌟81  😊1   🎮黑墙之下               
 
-🌟63  😊18  🎮盒以为家               
+🌟65  😊18  🎮盒以为家               
 
 🌟59  😊5   🎮Doghost幽灵狗         
 
