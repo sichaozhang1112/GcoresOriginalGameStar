@@ -60,8 +60,12 @@ def write_readme(booom_list: List) -> None:
             + "```\n\n"
             + "## how to use\n"
             + "```\n"
+            + "# update starts of all games\n"
             + "python3 get_star.py --update all\n"
+            + "# generate the html plot\n"
             + "python3 gen_html.py\n"
+            + "# print specific BOOOM type\n"
+            + "python3 get_star.py --print 24SideEffect\n"
             + "```\n\n"
         )
         for type in booom_list:
