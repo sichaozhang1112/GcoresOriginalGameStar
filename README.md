@@ -33,23 +33,23 @@ python3 gen_html.py
 🌟385 😊10  🎮腐根之里               
 
 ## [🔗BOOOM 24SideEffect stars, update on 2024-05-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
-🌟183 😊12  🎮恶魔真探DICEMON        
+🌟188 😊12  🎮恶魔真探DICEMON        
 
 🌟151 😊47  🎮少女奇旅               
 
 🌟116 😊7   🎮深渊恶弈               
 
+🌟92  😊7   🎮極東1989             
+
 🌟88  😊1   🎮陀螺大对决              
 
-🌟88  😊7   🎮極東1989             
+🌟87  😊20  🎮暗影幽蝶：潘多拉           
 
-🌟86  😊20  🎮暗影幽蝶：潘多拉           
-
-🌟79  😊5   🎮空気蛹                
+🌟82  😊5   🎮空気蛹                
 
 🌟63  😊3   🎮虫虫生态箱              
 
 🌟62  😊13  🎮龙女之愿               
 
-🌟60  😊9   🎮牛咩咩防卫战             
+🌟61  😊3   🎮PricedRun - 代价逃跑   
 
