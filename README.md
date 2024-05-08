@@ -7,8 +7,12 @@ pip3 install -r requirements.txt
 
 ## how to use
 ```
+# update starts of all games
 python3 get_star.py --update all
+# generate the html plot
 python3 gen_html.py
+# print specific BOOOM type
+python3 get_star.py --print 24SideEffect
 ```
 
 ## [🔗BOOOM all stars, update on 2024-05-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
