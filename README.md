@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 get_star.py --update
 ```
 
-## [🔗BOOOM all stars, update on 2024-05-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
+## [🔗BOOOM all stars, update on 2024-05-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/all.html) 
 🌟1053😊4   🎮星幕协约 A.A.A.        
 
 🌟948 😊11  🎮喜丧                 
@@ -29,9 +29,9 @@ python3 get_star.py --update
 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
-🌟241 😊9   🎮倒影与告解室             
+🌟242 😊9   🎮倒影与告解室             
 
-## [🔗BOOOM 23lab stars, update on 2024-05-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
+## [🔗BOOOM 23lab stars, update on 2024-05-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23lab.html) 
 🌟78  😊1   🎮人是不能飞的             
 
 🌟55  😊2   🎮故障修复公司             
@@ -42,10 +42,10 @@ python3 get_star.py --update
 
 🌟5   😊1   🎮1,2,switch         
 
-## [🔗BOOOM 23dice stars, update on 2024-05-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
+## [🔗BOOOM 23dice stars, update on 2024-05-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/23dice.html) 
 🌟267 😊30  🎮宇宙尽头的酒馆            
 
-🌟225 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
+🌟224 😊13  🎮来次占卜吧！~上网时●●的话人生就结束了吧~
 
 🌟216 😊2   🎮丰饶女神之骰             
 
@@ -57,7 +57,7 @@ python3 get_star.py --update
 
 🌟81  😊1   🎮黑墙之下               
 
-🌟65  😊18  🎮盒以为家               
+🌟66  😊18  🎮盒以为家               
 
 🌟59  😊5   🎮Doghost幽灵狗         
 
