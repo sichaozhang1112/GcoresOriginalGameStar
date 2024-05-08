@@ -32,7 +32,6 @@ jobs:
       run: |
         python3 get_star.py --update all
         python3 gen_html.py
-        cp 23dice.html index.html
 
     - name: Commit and Push
       run: |
