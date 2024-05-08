@@ -6,42 +6,41 @@ import argparse
 import time
 import matplotlib.pyplot as plt
 from typing import List
-from game_infos import GameInfo, GameInfos
-from load_and_save import load_infos, save_infos
+from utils import GameInfo, GameInfos, identify_game_type
+from utils import load_infos, save_infos
 
 
-def get_today_infos() -> GameInfos:
+def get_today_infos(type: str="all") -> GameInfos:
     today = datetime.date.today()
     # get game infos
-    game_ids: set = get_game_ids()
-    game_infos: List[GameInfo] = [
-        info for info in [GameInfo(id) for id in game_ids]
-    ]
-    # sort by star
-    game_infos.sort(key=lambda x: x.star, reverse=True)
+    game_ids: set = get_game_ids(type)
+    print(f"today game ids total cnt {len(game_ids)}")
+    game_infos: List[GameInfo] = [info for info in [GameInfo(id) for id in game_ids]]
     today_infos: GameInfos = GameInfos(today.strftime("%Y-%m-%d"), game_infos)
+    today_infos.sort()
     return today_infos
 
 
-def get_game_ids() -> set:
+def get_game_ids(type: str="all") -> set:
     game_ids: set = set()
     try:
         page_limit: int = 100
         max_offset: int = 100
         for i in range(max_offset):
             url: str = (
-                "https://www.gcores.com/gapi/v1/games?page[limit]=" +
-                str(page_limit) + "&page[offset]=" + str(i * page_limit) +
-                "&sort=-content-updated-at&include=tags&filter[is-original]=1&filter[revised]=1&meta[tags]=%2C&meta[games]=%2C"
+                "https://www.gcores.com/gapi/v1/games?page[limit]="
+                + str(page_limit)
+                + "&page[offset]="
+                + str(i * page_limit)
+                + "&sort=-content-updated-at&include=tags&filter[is-original]=1&filter[revised]=1&meta[tags]=%2C&meta[games]=%2C"
             )
             print(f"try to reuqest from {url}")
             request_info = requests.get(url).json()
             if request_info["data"] == []:
                 break
             for game in request_info["data"]:
-                if game["attributes"]["development-status"] is None:
-                    continue
-                if "BOOOM作品" not in game["attributes"]["development-status"]:
+                # print(f"{game["attributes"]["title"]} is {identify_game_type(game)}")
+                if type != "all" and identify_game_type(game) != type:
                     continue
                 game_ids.add(game["id"])
             time.sleep(1)
@@ -53,19 +52,33 @@ def get_game_ids() -> set:
 
 def write_readme(booom_list: List) -> None:
     with open("README.md", "w") as readme:
-        readme.write("# GcoresOriginalGameStar\n\n" + "## requirements\n" +
-                     "```\n" + "pip3 install -r requirements.txt\n" +
-                     "```\n\n" + "## how to use\n" + "```\n" +
-                     "python3 get_star.py --update\n" + "```\n\n")
+        readme.write(
+            "# GcoresOriginalGameStar\n\n"
+            + "## requirements\n"
+            + "```\n"
+            + "pip3 install -r requirements.txt\n"
+            + "```\n\n"
+            + "## how to use\n"
+            + "```\n"
+            + "python3 get_star.py --update\n"
+            + "python3 gen_html.py\n"
+            + "```\n\n"
+        )
         for type in booom_list:
             infos = load_infos(type)
             if len(infos) == 0:
                 continue
             info = infos[-1]
             readme.write(
-                "## [🔗BOOOM " + type + " stars, update on " + info.date +
-                "👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/"
-                + type + ".html)" + " \n")
+                "## [🔗BOOOM "
+                + type
+                + " stars, update on "
+                + info.date
+                + "👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/"
+                + type
+                + ".html)"
+                + " \n"
+            )
             # readme.write("<div align='center'>\n")
             # readme.write(
             #     "<img src=./pics/" + type +
@@ -129,17 +142,9 @@ def select_type_infos(today_infos: GameInfos, type: str) -> GameInfos:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--update",
-                        type=str,
-                        default="all",
-                        help="update today infos")
-    parser.add_argument("--print",
-                        type=str,
-                        default="",
-                        help="print today infos")
-    parser.add_argument("--clear",
-                        action="store_true",
-                        help="clear cached infos")
+    parser.add_argument("--update", type=str, default="all", help="update today infos")
+    parser.add_argument("--print", type=str, default="", help="print today infos")
+    parser.add_argument("--clear", action="store_true", help="clear cached infos")
     parser.add_argument("--debug", type=str, default="", help="debug mode")
 
     if parser.parse_args().clear:
@@ -153,7 +158,7 @@ if __name__ == "__main__":
     os.makedirs("./infos/", exist_ok=True)
     os.makedirs("./pics/", exist_ok=True)
 
-    booom_list: List = ["all", "23lab", "23dice"]
+    booom_list: List = ["all", "24SideEffect"]
 
     if parser.parse_args().debug != "":
         game_ids: set = get_game_ids()
@@ -168,14 +173,18 @@ if __name__ == "__main__":
         infos[-1].print()
     elif parser.parse_args().update == "all":
         today_infos: GameInfos = get_today_infos()
+        print(f"today infos total cnt {len(today_infos.infos)}")
         for type in booom_list:
             type_infos: GameInfos = select_type_infos(today_infos, type)
+            print(f"today {type} infos total cnt {len(type_infos.infos)}")
             # type_infos.print()
             update(type_infos, type)
     elif parser.parse_args().update in booom_list:
-        today_infos: GameInfos = get_today_infos()
+        today_infos: GameInfos = get_today_infos(parser.parse_args().update)
+        print(f"today infos total cnt {len(today_infos.infos)}")
         type = parser.parse_args().update
         type_infos: GameInfos = select_type_infos(today_infos, type)
+        print(f"today {type} infos total cnt {len(type_infos.infos)}")
         # type_infos.print()
         update(type_infos, type)
     write_readme(booom_list)

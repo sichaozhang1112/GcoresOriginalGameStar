@@ -1,0 +1,11 @@
+<div>
+	<canvas id="GCoresOriginalGameStars"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+	const ctx = document.getElementById('GCoresOriginalGameStars');
+	new Chart(ctx, {
+		type: 'line',
+		data: {
+			labels: [],
+			datasets: [
