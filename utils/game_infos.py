@@ -80,7 +80,7 @@ class GameInfos:
         for info in self.infos[: self.max_num]:
             result += (
                 "{:<5}".format("🌟" + str(info.star))
-                + "{:<5}".format("😊" + str(info.team_size))
+                + "{:<5}".format("👥" + str(info.team_size))
                 + "{:<20}".format("🎮" + info.title)
                 + "\n\n"
             )
@@ -95,7 +95,7 @@ class GameInfos:
                 cnt,
                 ".",
                 "{:<5}".format("🌟" + str(info.star)),
-                "{:<5}".format("😊" + str(info.team_size)),
+                "{:<5}".format("👥" + str(info.team_size)),
                 "{:<20}".format("🎮" + info.title),
             )
             cnt += 1
