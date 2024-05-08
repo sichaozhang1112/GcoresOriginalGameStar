@@ -60,7 +60,7 @@ def write_readme(booom_list: List) -> None:
             + "```\n\n"
             + "## how to use\n"
             + "```\n"
-            + "python3 get_star.py --update\n"
+            + "python3 get_star.py --update all\n"
             + "python3 gen_html.py\n"
             + "```\n\n"
         )
