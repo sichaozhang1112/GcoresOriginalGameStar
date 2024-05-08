@@ -27,17 +27,20 @@ def get_game_ids() -> set:
     game_ids: set = set()
     try:
         page_limit: int = 100
-        max_offset: int = 10
+        max_offset: int = 100
         for i in range(max_offset):
             url: str = (
                 "https://www.gcores.com/gapi/v1/games?page[limit]=" +
                 str(page_limit) + "&page[offset]=" + str(i * page_limit) +
                 "&sort=-content-updated-at&include=tags&filter[is-original]=1&filter[revised]=1&meta[tags]=%2C&meta[games]=%2C"
             )
+            print(f"try to reuqest from {url}")
             request_info = requests.get(url).json()
             if request_info["data"] == []:
                 break
             for game in request_info["data"]:
+                if game["attributes"]["development-status"] is None:
+                    continue
                 if "BOOOM作品" not in game["attributes"]["development-status"]:
                     continue
                 game_ids.add(game["id"])
