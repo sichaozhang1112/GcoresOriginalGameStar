@@ -3,6 +3,7 @@ import time
 import requests
 from typing import List
 
+
 def identify_game_type(data: dict) -> str:
     if data["attributes"]["event-name"] == "2024 side effect":
         return "24SideEffect"
@@ -16,10 +17,16 @@ def identify_game_type(data: dict) -> str:
         return "Giggling"
     return "Others"
 
+
 class GameInfo:
 
     def __init__(self, id: int) -> None:
+        # init info
         self.id = id
+        self.star = 0
+        self.title = "game"
+        self.team_size = 0
+
         if not self._request():
             return
 
@@ -39,7 +46,7 @@ class GameInfo:
                 + "?include=tags%2Cuser%2Cgame-stores%2Cinvolvements.entity.user&meta[tags]=%2C"
             )
             self.request = requests.get(url).json()
-            time.sleep(1)
+            time.sleep(0.5)
             return True
 
         except Exception as e:
@@ -82,9 +89,13 @@ class GameInfos:
     def print(self) -> None:
         print("today date: ", self.date)
         print("booom ", self.type, " game total num: ", len(self.infos))
+        cnt = 1
         for info in self.infos[:]:
             print(
+                cnt,
+                ".",
                 "{:<5}".format("🌟" + str(info.star)),
                 "{:<5}".format("😊" + str(info.team_size)),
                 "{:<20}".format("🎮" + info.title),
             )
+            cnt += 1

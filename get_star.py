@@ -10,7 +10,7 @@ from utils import GameInfo, GameInfos, identify_game_type
 from utils import load_infos, save_infos
 
 
-def get_today_infos(type: str="all") -> GameInfos:
+def get_today_infos(type: str = "all") -> GameInfos:
     today = datetime.date.today()
     # get game infos
     game_ids: set = get_game_ids(type)
@@ -21,7 +21,7 @@ def get_today_infos(type: str="all") -> GameInfos:
     return today_infos
 
 
-def get_game_ids(type: str="all") -> set:
+def get_game_ids(type: str = "all") -> set:
     game_ids: set = set()
     try:
         page_limit: int = 100
