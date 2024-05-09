@@ -6,7 +6,7 @@ from utils import GameInfos, GameInfo
 
 def load_infos(type: str) -> List[GameInfos]:
     info_file: str = "./infos/" + type + "_infos.pkl"
-    print(f"try to load {info_file}")
+    # print(f"try to load {info_file}")
     if not os.path.exists(info_file):
         return []
     with open(info_file, "rb") as f:

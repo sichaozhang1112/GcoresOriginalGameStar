@@ -14,10 +14,10 @@ def get_today_infos(type: str = "all") -> GameInfos:
     today = datetime.date.today()
     # get game infos
     game_ids: set = get_game_ids(type)
-    print(f"today game ids total cnt {len(game_ids)}")
     game_infos: List[GameInfo] = [info for info in [GameInfo(id) for id in game_ids]]
     today_infos: GameInfos = GameInfos(today.strftime("%Y-%m-%d"), game_infos)
     today_infos.sort()
+    print(f"get today {type} infos, total cnt {len(today_infos.infos)}")
     return today_infos
 
 
@@ -90,6 +90,7 @@ def write_readme(booom_list: List) -> None:
             # )
             # readme.write("</div>\n\n")
             readme.write(info.serialize())
+    print("write readme")
 
 
 def draw(infos: List[GameInfos], type: str) -> None:
@@ -141,6 +142,7 @@ def select_type_infos(today_infos: GameInfos, type: str) -> GameInfos:
     for info in today_infos.infos:
         if info.type == type:
             game_infos.append(info)
+    print(f"select {type} infos, total cnt {len(game_infos)}")
     return GameInfos(today_infos.date, game_infos)
 
 
@@ -177,18 +179,14 @@ if __name__ == "__main__":
         infos[-1].print()
     elif parser.parse_args().update == "all":
         today_infos: GameInfos = get_today_infos()
-        print(f"today infos total cnt {len(today_infos.infos)}")
         for type in booom_list:
             type_infos: GameInfos = select_type_infos(today_infos, type)
-            print(f"today {type} infos total cnt {len(type_infos.infos)}")
             # type_infos.print()
             update(type_infos, type)
     elif parser.parse_args().update in booom_list:
         today_infos: GameInfos = get_today_infos(parser.parse_args().update)
-        print(f"today infos total cnt {len(today_infos.infos)}")
         type = parser.parse_args().update
         type_infos: GameInfos = select_type_infos(today_infos, type)
-        print(f"today {type} infos total cnt {len(type_infos.infos)}")
         # type_infos.print()
         update(type_infos, type)
     write_readme(booom_list)
