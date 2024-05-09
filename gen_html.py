@@ -26,7 +26,7 @@ def genHTML(booom_type):
                 star = infos[j].find(info.id)
                 y.append(star)
             # set thresh
-            if max(y) < 30:
+            if booom_type == "all" and max(y) < 30:
                 continue
             str_y = str(y).replace("-1", "null")
             if i != 0:
