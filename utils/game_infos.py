@@ -26,6 +26,7 @@ class GameInfo:
         self.star = 0
         self.title = "game"
         self.team_size = 0
+        self.type = "Others"
 
         if not self._request():
             return
