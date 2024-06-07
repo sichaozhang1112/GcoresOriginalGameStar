@@ -15,7 +15,7 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM all stars, update on 2024-06-06👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
+## [🔗BOOOM all stars, update on 2024-06-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
 🌟1093👥4   🎮星幕协约 A.A.A.        
 
 🌟968 👥11  🎮机核GCORES           
@@ -26,9 +26,9 @@ python3 get_star.py --print 24SideEffect
 
 🌟736 👥6   🎮S4U：都市朋克2011与爱的重拳  
 
-🌟552 👥7   🎮往复.西隅              
+🌟553 👥7   🎮往复.西隅              
 
-🌟543 👥5   🎮CATO 黄油猫           
+🌟545 👥5   🎮CATO 黄油猫           
 
 🌟476 👥7   🎮EggSoul (魂蛋）       
 
@@ -36,7 +36,7 @@ python3 get_star.py --print 24SideEffect
 
 🌟421 👥6   🎮致命纽带               
 
-## [🔗BOOOM 24SideEffect stars, update on 2024-06-06👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
+## [🔗BOOOM 24SideEffect stars, update on 2024-06-07👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
 🌟476 👥7   🎮EggSoul (魂蛋）       
 
 🌟440 👥12  🎮恶魔真探DICEMON        
@@ -45,13 +45,13 @@ python3 get_star.py --print 24SideEffect
 
 🌟317 👥13  🎮AliePot 温室效应       
 
-🌟311 👥7   🎮極東1989             
+🌟313 👥7   🎮極東1989             
 
-🌟295 👥3   🎮虫虫生态箱              
+🌟297 👥3   🎮虫虫生态箱              
 
 🌟272 👥2   🎮Sa[meow]rai：银翼喵侍   
 
-🌟221 👥6   🎮醒梦                 
+🌟227 👥6   🎮醒梦                 
 
 🌟217 👥1   🎮今天去看海吗             
 
