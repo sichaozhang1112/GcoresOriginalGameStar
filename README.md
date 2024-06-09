@@ -15,16 +15,16 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM all stars, update on 2024-06-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
-🌟1096👥4   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2024-06-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
+🌟1097👥4   🎮星幕协约 A.A.A.        
 
 🌟968 👥11  🎮机核GCORES           
 
 🌟954 👥11  🎮喜丧                 
 
-🌟880 👥12  🎮奇愈地下城              
+🌟881 👥12  🎮奇愈地下城              
 
-🌟738 👥6   🎮S4U：都市朋克2011与爱的重拳  
+🌟741 👥6   🎮S4U：都市朋克2011与爱的重拳  
 
 🌟555 👥7   🎮往复.西隅              
 
@@ -32,14 +32,14 @@ python3 get_star.py --print 24SideEffect
 
 🌟476 👥7   🎮EggSoul (魂蛋）       
 
-🌟440 👥12  🎮恶魔真探DICEMON        
+🌟441 👥12  🎮恶魔真探DICEMON        
 
 🌟421 👥6   🎮致命纽带               
 
-## [🔗BOOOM 24SideEffect stars, update on 2024-06-08👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
+## [🔗BOOOM 24SideEffect stars, update on 2024-06-09👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
 🌟476 👥7   🎮EggSoul (魂蛋）       
 
-🌟440 👥12  🎮恶魔真探DICEMON        
+🌟441 👥12  🎮恶魔真探DICEMON        
 
 🌟341 👥8   🎮艾比斯之梦              
 
@@ -51,7 +51,7 @@ python3 get_star.py --print 24SideEffect
 
 🌟275 👥2   🎮Sa[meow]rai：银翼喵侍   
 
-🌟233 👥6   🎮醒梦                 
+🌟235 👥6   🎮醒梦                 
 
 🌟217 👥1   🎮今天去看海吗             
 
