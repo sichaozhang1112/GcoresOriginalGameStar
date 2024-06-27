@@ -15,8 +15,8 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM all stars, update on 2024-06-26👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
-🌟1101👥4   🎮星幕协约 A.A.A.        
+## [🔗BOOOM all stars, update on 2024-06-27👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/all.html) 
+🌟1102👥4   🎮星幕协约 A.A.A.        
 
 🌟971 👥11  🎮机核GCORES           
 
@@ -36,14 +36,14 @@ python3 get_star.py --print 24SideEffect
 
 🌟421 👥6   🎮致命纽带               
 
-## [🔗BOOOM 24SideEffect stars, update on 2024-06-26👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
+## [🔗BOOOM 24SideEffect stars, update on 2024-06-27👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
 🌟477 👥7   🎮EggSoul (魂蛋）       
 
 🌟446 👥12  🎮恶魔真探DICEMON        
 
-🌟352 👥8   🎮艾比斯之梦              
+🌟353 👥8   🎮艾比斯之梦              
 
-🌟337 👥7   🎮極東1989             
+🌟338 👥7   🎮極東1989             
 
 🌟328 👥13  🎮AliePot 温室效应       
 
