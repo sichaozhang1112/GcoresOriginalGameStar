@@ -164,7 +164,7 @@ if __name__ == "__main__":
     os.makedirs("./infos/", exist_ok=True)
     os.makedirs("./pics/", exist_ok=True)
 
-    booom_list: List = ["all", "24SideEffect"]
+    booom_list: List = ["24SideEffect"]
 
     if parser.parse_args().debug != "":
         game_ids: set = get_game_ids()
