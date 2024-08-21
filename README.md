@@ -15,14 +15,14 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM 24SideEffect stars, update on 2024-08-20👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
+## [🔗BOOOM 24SideEffect stars, update on 2024-08-21👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24SideEffect.html) 
 🌟483 👥7   🎮EggSoul (魂蛋）       
 
-🌟462 👥12  🎮恶魔真探DICEMON        
+🌟463 👥12  🎮恶魔真探DICEMON        
 
 🌟361 👥7   🎮極東1989             
 
-🌟360 👥8   🎮艾比斯之梦              
+🌟361 👥8   🎮艾比斯之梦              
 
 🌟341 👥13  🎮AliePot 温室效应       
 
