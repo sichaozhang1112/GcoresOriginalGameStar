@@ -15,6 +15,8 @@ def identify_game_type(data: dict) -> str:
         return "21TimeIsAnIllusion"
     elif data["attributes"]["event-name"] == "夏日纳凉特别篇｜Giggling":
         return "Giggling"
+    elif data["attributes"]["event-name"] == "保时捷特别回合":
+        return "24Porsche"
     return "Others"
 
 

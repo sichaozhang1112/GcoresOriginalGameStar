@@ -42,6 +42,6 @@ def genHTML(booom_type):
 
 
 if __name__ == "__main__":
-    booom_types = ["all", "24SideEffect"]
+    booom_types = ["24Porsche"]
     for booom_type in booom_types:
         genHTML(booom_type)
