@@ -15,10 +15,10 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM 24Porsche stars, update on 2024-09-16👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24Porsche.html) 
+## [🔗BOOOM 24Porsche stars, update on 2024-09-17👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24Porsche.html) 
 🌟147 👥8   🎮罪魂                 
 
-🌟102 👥13  🎮咚咚厨房               
+🌟103 👥13  🎮咚咚厨房               
 
 🌟92  👥3   🎮“我们”的生活            
 
@@ -30,9 +30,9 @@ python3 get_star.py --print 24SideEffect
 
 🌟77  👥6   🎮三步并作两步             
 
-🌟76  👥2   🎮活疮                 
-
 🌟76  👥4   🎮月之回响               
+
+🌟76  👥2   🎮活疮                 
 
 🌟73  👥12  🎮代理人                
 
