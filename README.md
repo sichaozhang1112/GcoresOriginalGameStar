@@ -15,7 +15,7 @@ python3 gen_html.py
 python3 get_star.py --print 24SideEffect
 ```
 
-## [🔗BOOOM 24Porsche stars, update on 2026-08-17👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24Porsche.html) 
+## [🔗BOOOM 24Porsche stars, update on 2026-08-18👈](https://raw.githack.com/sichaozhang1112/GcoresOriginalGameStar/main/html/24Porsche.html) 
 🌟173 👥9   🎮落井下食               
 
 🌟151 👥8   🎮罪魂                 
